@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "installerUrl": "https://github.com/Trameca26/sim-creator-studio-updates/releases/download/v1.0.0/SimCreatorStudio-1.0.0-Setup.exe",
+  "releaseNotes": "Initial stable release of Sim Creator Studio.",
+  "publishedAt": "2026-08-23T00:00:00Z",
+  "channel": "stable",
+  "mandatory": false,
+  "installerSizeBytes": null,
+  "minimumSupportedVersion": "1.0.0"
+}
